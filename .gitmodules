@@ -1,0 +1,6 @@
+[submodule "presentation"]
+	path = presentation
+	url = https://github.com/CristianBonilla/encryption-presentation.git
+[submodule "server"]
+	path = server
+	url = https://github.com/CristianBonilla/encryption-server.git
